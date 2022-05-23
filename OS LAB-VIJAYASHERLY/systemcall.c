@@ -1,0 +1,1 @@
+// Name: Vaibhav Shah// Reg. No.: 20BBS0162#includ <stdio.h>#include<stdlib.h>int main(){    printf("\nBefore calling system()\n\n");    system("ps");    printf("\nAfter calling system()\n\n");}
